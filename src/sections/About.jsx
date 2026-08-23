@@ -66,17 +66,17 @@ export const About = () => {
                 keen eye for design and user experience.
               </p>
               <p>
-                When I'm not coding, you'll find me exploring new technologies,
-                contributing to open-source projects, or sharing knowledge with
-                the developer community.
+                You'll find me exploring new technologies, contributing to
+                open-source projects, or sharing knowledge with the developer
+                community.
               </p>
             </div>
 
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
               <p className="text-lg font-medium italic text-foreground">
-                "My mission is to create digital experiences that are not just
-                functional, but truly delightful — products that users love to
-                use and developers love to maintain."
+                "My mission is to create digital experiences that are
+                functional, truly delightful — products that users love to use
+                and developers love to maintain."
               </p>
             </div>
           </div>

@@ -32,7 +32,7 @@ const testimonials = [
   },
   {
     quote:
-      "Not only is Jesús technically brilliant, but he's also a fantastic communicator and team player. He elevated everyone around him.",
+      "Jesús is technically brilliant, he's also a fantastic communicator and team player. He elevated everyone around him.",
     author: "David Kim",
     role: "CEO, Innovation Hub",
     avatar:

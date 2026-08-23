@@ -104,8 +104,8 @@ export const Hero = () => {
               <span className="text-sm text-muted-foreground">Follow me: </span>
               {[
                 { icon: FaGithub, href: "https://github.com/jdomingu19" },
-                { icon: FaInstagram, href: "https://instagram.com/jdomingu19" },
                 { icon: FaXTwitter, href: "https://x.com/jdomingu19" },
+                { icon: FaInstagram, href: "https://instagram.com/jdomingu19" },
                 {
                   icon: FaLinkedin,
                   href: "https://linkedin.com/in/jesus-dominguez-charris",

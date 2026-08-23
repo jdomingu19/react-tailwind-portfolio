@@ -37,7 +37,7 @@ export const Footer = () => {
           {/* Logo & Copyright */}
           <div className="text-center md:text-left">
             <a href="#" className="text-xl font-bold tracking-tight">
-              JD<span>.</span>
+              jdomingu19<span>.</span>
             </a>
             <p className="text-sm text-muted-foreground mt-2">
               © {currentYear} Jesús Domínguez. All rights reserved.
