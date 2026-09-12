@@ -29,8 +29,8 @@ Designed with a dark, minimal aesthetic and enhanced with smooth animations, thi
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/jdomingu19/react-tailwind-personal-portfolio.git
-cd react-tailwind-personal-portfolio
+git clone https://github.com/jdomingu19/react-tailwind-portfolio.git
+cd react-tailwind-portfolio
 npm install
 ```
 
