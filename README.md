@@ -24,3 +24,34 @@ Designed with a dark, minimal aesthetic and enhanced with smooth animations, thi
 
 - **Footer** with consistent branding and social links.
 
+## Installation & Setup 🚀
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/jdomingu19/react-tailwind-personal-portfolio.git
+cd react-tailwind-personal-portfolio
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## Installation & Setup 🚀
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/jdomingu19/react-tailwind-personal-portfolio.git
+cd react-tailwind-personal-portfolio
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
