@@ -1,40 +1,5 @@
-# React + Vite
+## mModern Personal Portfolio 🌌
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive, and professional React + Vite portfolio showcasing projects, experience, testimonials, and a contact form powered by EmailJS.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-## Used Commands
-
-```bash
-npx create-vite@latest
-```
-
-```bash
-npm install tailwindcss @tailwindcss/vite
-```
-
-```bash
-npm install lucide-react
-```
-
-```bash
-npm install react-icons
-```
-
-```bash
-npm install @emailjs/browser
-```
-
-> Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
+Designed with a dark, minimal aesthetic and enhanced with smooth animations, this portfolio highlights both technical expertise and creative presentation.
