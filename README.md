@@ -40,18 +40,18 @@ Run the development server:
 npm run dev
 ```
 
-## Installation & Setup 🚀
+## EmailJS Integration 📧
 
-Clone the repository and install dependencies:
+Install EmailJS browser package:
 
 ```bash
-git clone https://github.com/jdomingu19/react-tailwind-personal-portfolio.git
-cd react-tailwind-personal-portfolio
-npm install
+npm install @emailjs/browser
 ```
 
-Run the development server:
+Configure environment variables in `.env`:
 
 ```bash
-npm run dev
+VITE_EMAILJS_SERVICE_ID=your_service_id
+VITE_EMAILJS_TEMPLATE_ID=your_template_id
+VITE_EMAILJS_PUBLIC_KEY=your_public_key
 ```
