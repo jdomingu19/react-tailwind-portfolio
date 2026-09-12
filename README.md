@@ -55,3 +55,21 @@ VITE_EMAILJS_SERVICE_ID=your_service_id
 VITE_EMAILJS_TEMPLATE_ID=your_template_id
 VITE_EMAILJS_PUBLIC_KEY=your_public_key
 ```
+
+## Project Structure 📂
+
+```bash
+src/
+├── components/       # Reusable UI components (Button, etc.)
+├── layout/           # Navbar, Footer
+├── sections/         # Hero, About, Projects, Experience, Testimonials, Contact
+├── assets/           # Images, icons
+├── App.jsx           # Main app layout
+└── index.css         # Tailwind base styles
+```
+
+## Contributing 🤝
+
+Contributions are welcome!
+
+Open an issue or submit a pull request with improvements, bug fixes, or new features.
