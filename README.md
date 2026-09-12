@@ -73,3 +73,11 @@ src/
 Contributions are welcome!
 
 Open an issue or submit a pull request with improvements, bug fixes, or new features.
+
+## License ⚖️
+
+This project is distributed under the [Apache License 2.0](LICENSE). You are free to use, modify, and share the code, provided that proper attribution is given and derivative works remain open to the community.
+
+##
+
+> Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
